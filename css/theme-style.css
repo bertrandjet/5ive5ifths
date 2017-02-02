@@ -1,6 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,100,300,500,700,800,900,600,200);
 html, body{
-    font-family: 'Raleway', sans-serif;
+    font-family: 'didot', sans-serif;
     font-size: 100%;
     background-color: #83ae58;
 }
@@ -26,6 +26,7 @@ html, body{
 	font-weight: 500;
 	font-size: 2.8em;
 	margin: 1em;
+	font-family: "didot";
 }
 .big-btn{
 	background: none;
@@ -132,9 +133,11 @@ html, body{
 	border-right:0px;
 	border-left:0px;
 	padding:5em 0;
+	background: #982649;
 }
 .about h3{
 	font-size: 2.5em;
+	color: #edeffb;
 }
 .about p{
 	padding: 1em 0 2em 0;
